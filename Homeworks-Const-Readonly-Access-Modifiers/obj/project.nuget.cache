@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lu+BkqUP511jRclfS3nj78v/tZLecTMa0jUfGS7uZ2QWWPjxUKmNGA1qYbUURVTFhCwhkFuW1nej2cERd8Rkug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\C#\\Homeworks-Const-Readonly-Access-Modifiers\\Homeworks-Const-Readonly-Access-Modifiers\\Homeworks-Const-Readonly-Access-Modifiers\\Homeworks-Const-Readonly-Access-Modifiers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
